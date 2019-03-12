@@ -2,7 +2,7 @@
 authors = ["Kai Schmidt"]
 multilingual = false
 src = "src"
-title = "Jan Tokei Tawa Moli"
+title = "Jan Toki Tawa Moli"
 
 [build]
 build-dir = "docs"

@@ -3,3 +3,7 @@ authors = ["Kai Schmidt"]
 multilingual = false
 src = "src"
 title = "Jan Tokei Tawa Moli"
+
+[build]
+build-dir = "docs"
+create-missing = true

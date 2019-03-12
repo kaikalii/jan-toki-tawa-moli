@@ -2,7 +2,7 @@
 
 mi mute li pilin sijelo mute ala tan ni: jan mute pi ma tomo ante li jo e pilin jan sama mi. mi mute li sona anu sona e ni: soweli mute pi jo kulupu pi pali ilo pi nasin ali ante li soweli ike ala. ona mute li jan sama. ona mute li jan utala ala. ona mute li jan pi tawa sama. ona mute en mi mute li tawa e tomo sewi sona sama.
 
-taso mi lukin e ni. anu mi wile lukin e ni. ante pi Laman en Palese li lon ala pi toki soweli. ona li lon pi soweli toki. mi mute li toki Laman e soweli nasa, la ona mute li tawa ala e selo pi pona sewi. ni la *mi mute* li.
+taso mi lukin e ni. anu mi wile lukin e ni. ante pi Laman en Palese li lon ala toki soweli. ona li lon soweli toki. mi mute li toki e ni: soweli nasa li Laman, la ona mute li tawa ala e selo pi pona sewi. *mi mute* li ni.
 
 * Pemosepenis, lipu tan Lamulin
 
